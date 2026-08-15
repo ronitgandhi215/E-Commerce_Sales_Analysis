@@ -8,6 +8,16 @@ An interactive and dynamic Tableau data visualization project designed to analyz
 
 ---
 
+## 📷 Dashboard Preview
+Below are screenshots of the interactive Tableau interface built for this analysis:
+
+<!-- First Screenshot -->
+<p align="center">
+  <img src="Dashboard_SS.png" alt="Sales Overview Dashboard" width="85%">
+</p>
+
+---
+
 ## 📊 Project Overview
 The objective of this project is to transform raw e-commerce transaction data into meaningful visual assets to assist stakeholders in optimizing business performance. The visualizations answer critical strategic business questions:
 * Which geographic regions contribute the most to total sales?
